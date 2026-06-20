@@ -51,6 +51,9 @@ The objective of this project was to classify human activities from acceleromete
 - Git
 - GitHub
 
+## Dataset
+
+The datasets are provided as compressed archives to reduce repository size. Extract the files before running "human_activity_recognition.py".
 
 ## Course
 
